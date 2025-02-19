@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Bracken</h1>
-<h3 align="center">A technologies generalist based in Tokyo, Japan</h3>
+<h3 align="center">An experienced technologies generalist based in Tokyo, Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retrohazard&label=Profile%20views&color=0e75b6&style=flat" alt="retrohazard" /> </p>
 
