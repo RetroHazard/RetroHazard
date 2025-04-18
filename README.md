@@ -8,5 +8,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/RetroHazard"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RetroHazard" /></a></p>
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=retrohazard&show_icons=true&locale=en&layout=compact" alt="retrohazard" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=retrohazard&show_icons=true&locale=en" alt="retrohazard" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=retrohazard&show_icons=true&locale=en&theme=transparent&layout=compact" alt="retrohazard" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retrohazard&show_icons=true&locale=en&theme=transparent&layout=compact&langs_count=8" alt="retrohazard" />
