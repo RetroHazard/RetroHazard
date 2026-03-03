@@ -8,5 +8,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/RetroHazard"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="RetroHazard" /></a></p>
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=retrohazard&show_icons=true&locale=en&theme=transparent&layout=compact" alt="retrohazard" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=retrohazard&show_icons=true&locale=en&theme=transparent&layout=compact&langs_count=8" alt="retrohazard" />
+
+<a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer"><img align="left" src="https://helio-github-stats.vercel.app/api?username=RetroHazard&custom_title=GitHub+Stats&theme=dark&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=github&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" /></a>
+
+<a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img align="center" src="https://helio-github-stats.vercel.app/api/top-langs?username=RetroHazard&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages" alt="Top Languages" width="466" height="auto" loading="lazy" /></a>
